@@ -1,3 +1,5 @@
+此为个人课程作业，非商用
+
 # -作品链接：
 https://tingyuzheng.pythonanywhere.com/
 
